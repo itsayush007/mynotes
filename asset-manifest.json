@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/itsayush007.github.io/mynotes/static/css/main.ea8736c3.css",
-    "main.js": "/itsayush007.github.io/mynotes/static/js/main.52fcc28c.js",
-    "static/js/787.a763d388.chunk.js": "/itsayush007.github.io/mynotes/static/js/787.a763d388.chunk.js",
-    "static/media/plusIcon.jpg": "/itsayush007.github.io/mynotes/static/media/plusIcon.f5d4d283910a71769470.jpg",
-    "index.html": "/itsayush007.github.io/mynotes/index.html",
-    "main.ea8736c3.css.map": "/itsayush007.github.io/mynotes/static/css/main.ea8736c3.css.map",
-    "main.52fcc28c.js.map": "/itsayush007.github.io/mynotes/static/js/main.52fcc28c.js.map",
-    "787.a763d388.chunk.js.map": "/itsayush007.github.io/mynotes/static/js/787.a763d388.chunk.js.map"
+    "main.css": "/mynotes/static/css/main.ea8736c3.css",
+    "main.js": "/mynotes/static/js/main.7c05d5a3.js",
+    "static/js/787.a763d388.chunk.js": "/mynotes/static/js/787.a763d388.chunk.js",
+    "static/media/plusIcon.jpg": "/mynotes/static/media/plusIcon.f5d4d283910a71769470.jpg",
+    "index.html": "/mynotes/index.html",
+    "main.ea8736c3.css.map": "/mynotes/static/css/main.ea8736c3.css.map",
+    "main.7c05d5a3.js.map": "/mynotes/static/js/main.7c05d5a3.js.map",
+    "787.a763d388.chunk.js.map": "/mynotes/static/js/787.a763d388.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea8736c3.css",
-    "static/js/main.52fcc28c.js"
+    "static/js/main.7c05d5a3.js"
   ]
 }
